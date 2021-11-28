@@ -1,3 +1,8 @@
+* {
+  margin: 0px;
+}
+
+
 img{
   background-image: url("img/web-hero.jpg");
   background-position: center center;
