@@ -1,6 +1,9 @@
-* {
-  margin: 0px;
+body, html {
+  height: 100%;
+  margin: 0;
+  display: block;
 }
+
 
 img{
   background-image: url("img/web-hero2.jpg");
