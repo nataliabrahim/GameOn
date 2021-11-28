@@ -1,7 +1,5 @@
-body, html {
-  height: 100%;
-  margin: 0;
-  display: block;
+* {
+  margin: 1px;
 }
 
 
