@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+}
+
+img{
+  background-image: url("img/web-hero2.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
